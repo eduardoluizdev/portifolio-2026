@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 import "./globals.css";
 
@@ -76,6 +77,7 @@ export default function RootLayout({
       className={`${inter.variable} ${spaceGrotesk.variable} dark bg-background`}
     >
       <body className="font-sans antialiased">{children}</body>
+      <GoogleAnalytics gaId="G-NHNWBER06J" />
     </html>
   );
 }
