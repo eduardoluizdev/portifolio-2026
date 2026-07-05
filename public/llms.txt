@@ -1,0 +1,38 @@
+# Eduardo Porciuncula
+
+> Desenvolvedor Full Stack Sênior com mais de 15 anos de experiência no desenvolvimento de aplicações web, especialista em React, Next.js e Node.js. Atua em todo o ciclo de vida do software, do design ao deploy, com foco em Clean Code, performance, Design System e arquiteturas escaláveis.
+
+## Sobre
+
+Eduardo atuou em segmentos como notícias, e-commerce, jogos e finanças, desenvolvendo soluções inovadoras e seguras. Tem sólida vivência em ambientes ágil/Scrum, integrações complexas (REST, GraphQL, Web3, gateways de pagamento) e sistemas em produção que movimentam milhões de reais e mais de 1 milhão de acessos mensais.
+
+## Experiência profissional
+
+- **Yever** — Desenvolvedor Front-end Sênior (Maio/2024 – Atual): Next.js 13/14, Design System com TailwindCSS e ReactJS, React Hook Form, Jest, Cypress.
+- **Devshub** — Desenvolvedor FullStack Sênior (Janeiro/2018 – Janeiro/2025): portais, SaaS e Micro-SaaS com ReactJS/Next.js/Node.js, APIs RESTful, GraphQL, CMS Headless (Prismic, WordPress, Strapi).
+- **Taller** — Desenvolvedor FullStack Sênior (Junho/2021 – Junho/2024): aplicações Web3, integrações com gateways de pagamento via GraphQL, mobile com Flutter, soluções com IA (ChatGPT 3/4).
+- **Eclipseworks** — Desenvolvedor Front-end Sênior (Fevereiro/2024 – Junho/2024): squad de precatórios com ReactJS, Ant Design, React Query, Context API, React Hook Form.
+
+## Formação acadêmica
+
+- UniFECAF — Inteligência Artificial e Automação Digital (2025 – 2027)
+- Rocketseat — Bootcamp ReactJS (2021)
+- JStack — Tecnologia da Informação (2021 – 2022)
+- Instituto Infnet — Tecnólogo em Design Gráfico (2015)
+
+## Stack principal
+
+React, Next.js, Node.js, TypeScript, JavaScript, TailwindCSS, GraphQL, REST APIs, CMS Headless, Docker, Git, Jest, Cypress, Figma, Web3, Clean Code, Scrum.
+
+## Projetos
+
+Lista atualizada de projetos pessoais em [github.com/eduardoluizdev](https://github.com/eduardoluizdev).
+
+## Contato
+
+- Site: https://eduardoluiz.dev
+- Email: hello@eduardoluiz.dev
+- LinkedIn: https://www.linkedin.com/in/eduardoluizdev
+- GitHub: https://github.com/eduardoluizdev
+- Localização: Nilópolis, RJ - Brasil
+- Currículo (PDF): https://eduardoluiz.dev/curriculo.pdf
