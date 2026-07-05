@@ -21,7 +21,7 @@ export default function Footer() {
               Eduardo<span className="text-jade">.dev</span>
             </a>
             <p className="mt-4 text-muted-foreground text-sm leading-relaxed">
-              Desenvolvedor Front-end Sênior criando experiências digitais
+              Desenvolvedor Full Stack Sênior criando experiências digitais
               elegantes e performáticas.
             </p>
           </div>

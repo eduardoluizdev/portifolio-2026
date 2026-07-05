@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Eduardo Porciuncula",
-  role: "Desenvolvedor Front-end Sênior",
+  role: "Desenvolvedor Full Stack Sênior",
   taglines: [
     "Transformando ideias em produtos de alto impacto.",
     "Especialista em React, Next.js e Node.js.",

@@ -13,9 +13,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Eduardo Porciuncula | Desenvolvedor Front-end Sênior",
+  title: "Eduardo Porciuncula | Desenvolvedor Full Stack Sênior",
   description:
-    "Portfólio de Eduardo Porciuncula, desenvolvedor front-end sênior com 15+ anos de experiência em React, Next.js e Node.js.",
+    "Portfólio de Eduardo Porciuncula, desenvolvedor full stack sênior com 15+ anos de experiência em React, Next.js e Node.js.",
 };
 
 export default function RootLayout({
