@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { navLinks } from "@/lib/data";
 import { useActiveSection } from "@/lib/useActiveSection";
@@ -40,8 +41,15 @@ export default function Header() {
 
       <nav className="relative mx-auto max-w-6xl py-4">
         <div className="flex items-center justify-between lg:px-0 px-6">
-          <a href="#hero" className="text-xl font-bold tracking-tight text-foreground">
-            Eduardo<span className="text-jade">.dev</span>
+          <a href="#hero" className="flex items-center">
+            <Image
+              src="/images/logo.png"
+              alt="Logo"
+              width={160}
+              height={56}
+              className="h-8 w-auto"
+              priority
+            />
           </a>
 
           <ul className="hidden md:flex items-center gap-8">

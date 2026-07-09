@@ -21,7 +21,7 @@ export default async function Image() {
           padding: "80px",
           backgroundColor: "#0a0a0a",
           backgroundImage:
-            "radial-gradient(circle at 85% 15%, rgba(0,200,150,0.35) 0%, rgba(10,10,10,0) 55%)",
+            "radial-gradient(circle at 85% 15%, rgba(17,228,163,0.35) 0%, rgba(10,10,10,0) 55%)",
           color: "#ededed",
           fontFamily: "sans-serif",
         }}
@@ -70,7 +70,7 @@ export default async function Image() {
           <div style={{ display: "flex", color: "#ededed", fontWeight: 700 }}>
             eduardoluiz
           </div>
-          <div style={{ display: "flex", color: "#00c896", fontWeight: 700 }}>
+          <div style={{ display: "flex", color: "#11e4a3", fontWeight: 700 }}>
             .dev
           </div>
         </div>

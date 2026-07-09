@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Image from "next/image";
 import { Mail } from "lucide-react";
 import { GithubIcon, LinkedinIcon } from "./icons/BrandIcons";
 import { navLinks, personalInfo } from "@/lib/data";
@@ -17,8 +18,14 @@ export default function Footer() {
           className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12"
         >
           <div>
-            <a className="text-2xl font-bold tracking-tight" href="#hero">
-              Eduardo<span className="text-jade">.dev</span>
+            <a className="inline-flex items-center" href="#hero">
+              <Image
+                src="/images/logo.png"
+                alt="Logo"
+                width={160}
+                height={56}
+                className="h-9 w-auto"
+              />
             </a>
             <p className="mt-4 text-muted-foreground text-sm leading-relaxed">
               Desenvolvedor Full Stack Sênior criando experiências digitais
