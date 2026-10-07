@@ -4,14 +4,17 @@
 
 ## Sobre
 
-Eduardo atuou em segmentos como notícias, e-commerce, jogos e finanças, desenvolvendo soluções inovadoras e seguras. Tem sólida vivência em ambientes ágil/Scrum, integrações complexas (REST, GraphQL, Web3, gateways de pagamento) e sistemas em produção que movimentam milhões de reais e mais de 1 milhão de acessos mensais.
+Eduardo atuou em segmentos como saúde, pagamentos, finanças, e-commerce, notícias, jogos e Web3, desenvolvendo soluções inovadoras e seguras. Tem sólida vivência em ambientes ágil/Scrum, integrações complexas (REST, GraphQL, Web3, gateways de pagamento) e sistemas em produção que movimentam milhões de reais e mais de 1 milhão de acessos mensais.
 
 ## Experiência profissional
 
-- **Yever** — Desenvolvedor Front-end Sênior (Maio/2024 – Atual): Next.js 13/14, Design System com TailwindCSS e ReactJS, React Hook Form, Jest, Cypress.
-- **Devshub** — Desenvolvedor FullStack Sênior (Janeiro/2018 – Janeiro/2025): portais, SaaS e Micro-SaaS com ReactJS/Next.js/Node.js, APIs RESTful, GraphQL, CMS Headless (Prismic, WordPress, Strapi).
+- **Suzano** — Desenvolvedor FullStack Sênior (Julho/2026 – Atual): plataforma SOMMOS com Next.js, React 19, TypeScript e PostgreSQL; arquitetura componentizada, modularização da API, reestruturação do painel administrativo.
+- **i4H Saúde** — Desenvolvedor FullStack Sênior (Março/2026 – Outubro/2026): migração para React 19 e Next.js 15, importação e monitoramento de bases de dados, sincronização PostgreSQL ↔ MongoDB, Node.js Serverless.
+- **Yever** — Desenvolvedor Front-end Sênior (Maio/2024 – Julho/2026): aplicações de pagamento com Next.js 13–16, Design System com TailwindCSS e React, React Hook Form, Jest, Cypress.
+- **Banco Master (via Eclipseworks)** — Desenvolvedor Front-end Sênior (Fevereiro/2024 – Junho/2024): gestão de precatórios com ReactJS, Ant Design, React Query, biblioteca de 50+ componentes.
 - **Taller** — Desenvolvedor FullStack Sênior (Junho/2021 – Junho/2024): aplicações Web3, integrações com gateways de pagamento via GraphQL, mobile com Flutter, soluções com IA (ChatGPT 3/4).
-- **Eclipseworks** — Desenvolvedor Front-end Sênior (Fevereiro/2024 – Junho/2024): squad de precatórios com ReactJS, Ant Design, React Query, Context API, React Hook Form.
+- **Devshub** — Desenvolvedor FullStack Sênior (Janeiro/2018 – Janeiro/2025): 15+ SaaS e Micro-SaaS com ReactJS/Next.js/Node.js, APIs RESTful, GraphQL, CMS Headless (Prismic, WordPress, Strapi).
+- **ISBrasil** — Desenvolvedor Front-end (Junho/2016 – Junho/2021): sites e sistemas com ReactJS, Next.js, WordPress e PHP.
 
 ## Formação acadêmica
 
@@ -22,7 +25,7 @@ Eduardo atuou em segmentos como notícias, e-commerce, jogos e finanças, desenv
 
 ## Stack principal
 
-React, Next.js, Node.js, TypeScript, JavaScript, TailwindCSS, GraphQL, REST APIs, CMS Headless, Docker, Git, Jest, Cypress, Figma, Web3, Clean Code, Scrum.
+React, Next.js, Node.js, TypeScript, JavaScript, TailwindCSS, GraphQL, REST APIs, Serverless, PostgreSQL, MongoDB, CMS Headless, Docker, Git, Jest, Cypress, Figma, Web3, Clean Code, Scrum.
 
 ## Projetos
 

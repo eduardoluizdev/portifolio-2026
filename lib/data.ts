@@ -18,13 +18,13 @@ export const personalInfo = {
   },
   stats: [
     { value: "15+", label: "Anos de experiência" },
-    { value: "4+", label: "Empresas atendidas" },
+    { value: "10+", label: "Empresas atendidas" },
     { value: "15+", label: "Tecnologias dominadas" },
     { value: "1M+", label: "Acessos/mês em produção" },
   ],
   about: [
-    "Profissional com mais de 15 anos de experiência no desenvolvimento de aplicações web, atuando em todo o ciclo de vida do software, desde a concepção até o deploy e manutenção. Especialista em ReactJS, Next.js e Node.js, com sólida vivência em ambientes ágil/Scrum, integrações complexas e arquiteturas escaláveis.",
-    "Tenho forte foco em qualidade de código, performance e experiência do usuário, aplicando princípios de Clean Code e Design System em todos os projetos. Atuei em segmentos como notícias, e-commerce, jogos e finanças, desenvolvendo soluções inovadoras e seguras. Minha missão é transformar ideias em produtos de alto impacto, contribuindo para o sucesso e crescimento das empresas em que atuo.",
+    "Profissional com mais de 15 anos de experiência no desenvolvimento de aplicações web, atuando em todo o ciclo de vida do software, desde a concepção até o deploy e manutenção. Especialista em ReactJS, Next.js e Node.js, com sólida vivência em ambientes ágeis (Scrum/Kanban), integrações complexas, sincronização de dados e arquiteturas escaláveis e Serverless.",
+    "Tenho forte foco em qualidade de código, performance e experiência do usuário, aplicando princípios de Clean Code e Design System em todos os projetos. Atuei em segmentos como saúde, pagamentos, finanças, e-commerce, notícias, jogos e Web3, desenvolvendo soluções inovadoras e seguras. Minha missão é transformar ideias em produtos de alto impacto, contribuindo para o sucesso e crescimento das empresas em que atuo.",
   ],
   specialties: [
     "Clean Code",
@@ -47,7 +47,15 @@ export const navLinks = [
 
 export const technologies = {
   "Front-end": ["ReactJS", "Next.js", "TypeScript", "JavaScript", "TailwindCSS"],
-  "Back-end": ["Node.js", "GraphQL", "REST APIs", "CMS Headless"],
+  "Back-end": [
+    "Node.js",
+    "GraphQL",
+    "REST APIs",
+    "Serverless",
+    "PostgreSQL",
+    "MongoDB",
+    "CMS Headless",
+  ],
   "Ferramentas & Práticas": [
     "Docker",
     "Git",
@@ -62,25 +70,44 @@ export const technologies = {
 
 export const experience = [
   {
-    period: "Maio/2024 — Atual",
-    company: "Yever",
-    role: "Desenvolvedor Front-end Sênior",
+    period: "Julho/2026 — Atual",
+    company: "Suzano",
+    role: "Desenvolvedor FullStack Sênior",
     description: [
-      "Implementação de novas funcionalidades e correções em aplicações web (Checkout, Client, Public e Admin) com Next.js 13/14.",
-      "Criação de um Design System escalável com TailwindCSS e ReactJS, padronizando o design em toda a empresa.",
-      "Desenvolvimento colaborativo com o time de design, integrando React Hook Form, Jest e Cypress para alta qualidade.",
-      "Atuação em sistemas que movimentam milhões de reais por mês, garantindo estabilidade e alta performance em produção.",
+      "Desenvolvimento de novas funcionalidades e melhorias contínuas para a plataforma SOMMOS, com foco em performance e usabilidade.",
+      "Migração da base de código para uma arquitetura componentizada e escalável, facilitando a manutenção e a evolução do produto.",
+      "Modularização da API, organizando as regras de negócio em módulos independentes para suportar o crescimento da plataforma.",
+      "Reestruturação visual do painel administrativo, criação de um quadro Kanban e upgrade das aplicações para React 19.",
     ],
   },
   {
-    period: "Janeiro/2018 — Janeiro/2025",
-    company: "Devshub",
+    period: "Março/2026 — Outubro/2026",
+    company: "i4H Saúde",
     role: "Desenvolvedor FullStack Sênior",
     description: [
-      "Desenvolvimento de portais, aplicações SaaS e Micro-SaaS utilizando ReactJS, Next.js e Node.js.",
-      "Criação e manutenção de APIs RESTful e integrações GraphQL com sistemas externos.",
-      "Integração com CMS Headless (Prismic, WordPress, Strapi) para conteúdo dinâmico e personalizado.",
-      "Implementação de testes automatizados (Jest, React Testing Library, Cypress) garantindo confiabilidade.",
+      "Migração de todos os projetos da empresa para React 19 e Next.js 15, eliminando APIs depreciadas e melhorando performance e manutenibilidade.",
+      "Processos de importação de bases de dados com scripts automatizados e monitoramento contínuo de dados sensíveis.",
+      "Sincronização de dados entre PostgreSQL e MongoDB, mantendo a consistência entre bancos relacionais e não relacionais.",
+      "Serviços em Node.js com arquitetura Serverless, priorizando escalabilidade e custo.",
+    ],
+  },
+  {
+    period: "Maio/2024 — Julho/2026",
+    company: "Yever",
+    role: "Desenvolvedor Front-end Sênior",
+    description: [
+      "Desenvolvimento e manutenção de aplicações de pagamento críticas (Checkout, Cliente, Público e Administração) com Next.js 13–16, processando milhares de transações diárias.",
+      "Construção de um Design System escalável com TailwindCSS e React, reduzindo o tempo de desenvolvimento em 40%.",
+      "Liderança do desenvolvimento colaborativo com o time de design, com React Hook Form, Jest e Cypress e mais de 90% de cobertura de código.",
+    ],
+  },
+  {
+    period: "Fevereiro/2024 — Junho/2024",
+    company: "Banco Master (via Eclipseworks)",
+    role: "Desenvolvedor Front-end Sênior",
+    description: [
+      "Desenvolvimento de um sistema financeiro-jurídico para gestão de precatórios com ReactJS, Ant Design e React Query, processando milhões em acordos judiciais.",
+      "Criação de uma biblioteca com mais de 50 componentes reutilizáveis, reduzindo o ciclo de desenvolvimento em 35%.",
     ],
   },
   {
@@ -95,14 +122,22 @@ export const experience = [
     ],
   },
   {
-    period: "Fevereiro/2024 — Junho/2024",
-    company: "Eclipseworks",
-    role: "Desenvolvedor Front-end Sênior",
+    period: "Janeiro/2018 — Janeiro/2025",
+    company: "Devshub",
+    role: "Desenvolvedor FullStack Sênior",
     description: [
-      "Desenvolvimento para squad de precatórios utilizando ReactJS, Ant Design, React Query e Context API.",
-      "Criação de componentes reutilizáveis e padronizados para o sistema interno.",
-      "Implementação de formulários dinâmicos com React Hook Form.",
-      "Colaboração direta com o time de produto para melhorias contínuas.",
+      "Mais de 15 aplicações SaaS e Micro-SaaS com React.js, Next.js e Node.js, gerando mais de US$ 500 mil em receita recorrente.",
+      "APIs RESTful e integrações GraphQL com sistemas externos, melhorando a eficiência da sincronização de dados em 60%.",
+      "CMS headless (Prismic, WordPress, Strapi) para o gerenciamento de conteúdo de mais de 50 sites de clientes.",
+    ],
+  },
+  {
+    period: "Junho/2016 — Junho/2021",
+    company: "ISBrasil",
+    role: "Desenvolvedor Front-end",
+    description: [
+      "Desenvolvimento de sites e sistemas com ReactJS, Next.js e WordPress, além de HTML5, CSS3, SASS e JavaScript.",
+      "Criação de temas WordPress personalizados, manutenção de sistemas legados em PHP e otimização de hospedagens cPanel.",
     ],
   },
 ];
